@@ -1,0 +1,7 @@
+Full Name: John Doe
+Email: johndoe@example.com
+Phone: 1234567890
+Address: 1234 Main County Street, Country
+Professional Summary: Experienced Web developer with strong background in web development
+Skills: HTML,CSS, JavaScript
+Languages: English, French
